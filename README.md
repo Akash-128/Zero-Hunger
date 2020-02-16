@@ -93,9 +93,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Sharjeel Ali** - [jeeali](https://github.com/jeeali)
+* **Atif Ibraheem** - [jeeali](https://github.com/jeeali)
+* **Akash.M.Shahzad** - [Akash-128](https://github.com/Akash-128)
 
 ## License
 
