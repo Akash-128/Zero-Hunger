@@ -9,7 +9,7 @@ Our application is extremely easy to download, all you have to do is click on th
 ### Objectives
 
 1-	No Food Wastage
-<b>By providing a platform to different restaurants and NGOs, this app helps in reducing the food wastage by providing it to deserving people.
+<br>By providing a platform to different restaurants and NGOs, this app helps in reducing the food wastage by providing it to deserving people.
 
 2-	Become a Savior
 The death rate caused by hunger is increasing rapidly, you can lend a helping hand by becoming a part of this platform.
