@@ -93,7 +93,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Inspiration: https://www.undp.org/content/undp/en/home/sustainable-development-goals/goal-2-zero-hunger.html
 
