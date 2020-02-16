@@ -17,6 +17,10 @@ Our application is extremely easy to download, all you have to do is click on th
 **3-	Save the future**
 <br>Our future is shaped by young generations, sadly many of our young generations die b/c of hunger. We can stop it by using this platform.
 
+### Use case
+
+![image](https://user-images.githubusercontent.com/60833961/74601218-9c53cc80-50bd-11ea-9006-7afecab759cd.png)
+
 ### Features
 
 **1-	Ease in registration**
