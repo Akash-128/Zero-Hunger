@@ -77,9 +77,9 @@ Share the apk file to user and ask him/her to install the package.
 
 ## Built With
 
-* [Flutter](http://www.dropwizard.io/1.0.2/docs/) - The GUI framework used
-* [Dart](https://maven.apache.org/) - Programming language used
-* [Android-Studio](https://rometools.github.io/rome/) - Used to build this app
+* [Flutter](https://flutter.dev/) - The GUI framework used
+* [Dart](https://dart.dev/) - Programming language used
+* [Android-Studio](https://developer.android.com/studio) - Used to build this app
 
 ## Authors
 
