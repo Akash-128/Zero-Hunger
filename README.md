@@ -94,7 +94,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Sharjeel Ali** - [jeeali](https://github.com/jeeali)
-* **Atif Ibraheem** - [jeeali](https://github.com/jeeali)
+* **Atif Ibraheem** - [dedezigners](https://github.com/dedezigners)
 * **Akash.M.Shahzad** - [Akash-128](https://github.com/Akash-128)
 
 ## License
