@@ -19,7 +19,7 @@ Our application is extremely easy to download, all you have to do is click on th
 
 ### Use case
 
-![image](https://user-images.githubusercontent.com/60833961/74601218-9c53cc80-50bd-11ea-9006-7afecab759cd.png)
+![74601218-9c53cc80-50bd-11ea-9006-7afecab759cd]
 
 ### Features
 
