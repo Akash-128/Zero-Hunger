@@ -1,14 +1,21 @@
-# Project Title
+# Zero Hunger
 
-One Paragraph of project description goes here
+This app provides a platform to different restaurants, individuals or NGOs to cooperate, by distributing the leftovers to the poor and needy people. It helps in reducing the wastage of food by providing it to the deserving ones.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Our application is extremely easy to download, all you have to do is click on the link above and the app package shall begin to download.
 
-### Prerequisites
+### Objectives
 
-What things you need to install the software and how to install them
+1-	No Food Wastage
+By providing a platform to different restaurants and NGOs, this app helps in reducing the food wastage by providing it to deserving people.
+
+2-	Become a Savior
+The death rate caused by hunger is increasing rapidly, you can lend a helping hand by becoming a part of this platform.
+
+3-	Save the future
+Our future is shaped by young generations, sadly many of our young generations die b/c of hunger. We can stop it by using this platform.
 
 ```
 Give examples
@@ -16,10 +23,8 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+After the zip file has been downloaded, simply extract it and install the apk file provided inside.
+PLease enable installation from unknown sources if required.
 ```
 Give the example
 ```
