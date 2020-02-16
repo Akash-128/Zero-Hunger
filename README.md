@@ -17,23 +17,39 @@ Our application is extremely easy to download, all you have to do is click on th
 **3-	Save the future**
 <br>Our future is shaped by young generations, sadly many of our young generations die b/c of hunger. We can stop it by using this platform.
 
-```
-Give examples
-```
+### Features
+
+**1-	Ease in registration**
+<br>Our one click registration function provides convenience to users in registration process, making the registration easier and faster than ever before.
+
+**2-	Easy to use**
+<br>Our app provides a user-friendly environment. Even a normal person with minimal or no prior knowledge of this app can learn to use it easily.
+
+**3-	Request for food**
+<br>NGOs, old age homes and orphanages can post request for food as per their need or requirements.
+
+**4-	View food requests**
+<br>Restaurant can view food requests posted by different NGOs, old age homes or orphanages etc.
+
+**5-	Approve request**
+<br>The restaurant can approve requests as per their capability.
+
+**6-	Request approval notification**
+<br>The NGO, old age home or orphanage shall receive a notification if their request is approved by a restaurant.
+
+**7-	Post food donations**
+<br>Restaurants can donate food by posting it in donations.
+
+**8-	View food donations**
+<br>NGOs, old age homes and orphanages can view food donations and accept as per their needs and requirements.
+
+**9-	Donation approval notification**
+<br>The restaurant shall receive a notification if their donation is accepted by an NGO, old age home or orphanage etc.
 
 ### Installing
 
 After the zip file has been downloaded, simply extract it and install the apk file provided inside.
 Please enable installation from unknown sources if required.
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
 
 End with an example of getting some data out of the system or using it for a little demo
 
