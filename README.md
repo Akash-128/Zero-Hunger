@@ -51,9 +51,7 @@ Our application is extremely easy to download, all you have to do is click on th
 After the zip file has been downloaded, simply extract it and install the apk file provided inside.
 Please enable installation from unknown sources if required.
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
+## Sample Screenshots
 
 Explain how to run the automated tests for this system
 
@@ -75,21 +73,13 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Share the apk file to user and ask him/her to install the package.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [Flutter](http://www.dropwizard.io/1.0.2/docs/) - The GUI framework used
+* [Dart](https://maven.apache.org/) - Programming language used
+* [Android-Studio](https://rometools.github.io/rome/) - Used to build this app
 
 ## Authors
 
