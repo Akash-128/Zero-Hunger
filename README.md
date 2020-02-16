@@ -8,13 +8,13 @@ Our application is extremely easy to download, all you have to do is click on th
 
 ### Objectives
 
-<b>1-	No Food Wastage<b>
+**1-	No Food Wastage**
 <br>By providing a platform to different restaurants and NGOs, this app helps in reducing the food wastage by providing it to deserving people.
 
-<b>2-	Become a Savior
+**2-	Become a Savior**
 <br>The death rate caused by hunger is increasing rapidly, you can lend a helping hand by becoming a part of this platform.
 
-<b>3-	Save the future
+**3-	Save the future**
 <br>Our future is shaped by young generations, sadly many of our young generations die b/c of hunger. We can stop it by using this platform.
 
 ```
