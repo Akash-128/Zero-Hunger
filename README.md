@@ -24,7 +24,7 @@ Give examples
 ### Installing
 
 After the zip file has been downloaded, simply extract it and install the apk file provided inside.
-PLease enable installation from unknown sources if required.
+Please enable installation from unknown sources if required.
 ```
 Give the example
 ```
